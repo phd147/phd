@@ -1,2 +1,0 @@
-(this["webpackJsonpmaterial-ui-practice"]=this["webpackJsonpmaterial-ui-practice"]||[]).push([[5],{91:function(t,e,a){"use strict";a.r(e);var n=a(23),r=a(24),c=a(26),i=a(25),u=a(0),p=a.n(u),s=function(t){Object(c.a)(a,t);var e=Object(i.a)(a);function a(){return Object(n.a)(this,a),e.apply(this,arguments)}return Object(r.a)(a,[{key:"render",value:function(){return p.a.createElement("h1",null,"projects")}}]),a}(p.a.Component);e.default=s}}]);
-//# sourceMappingURL=5.36eb3672.chunk.js.map
